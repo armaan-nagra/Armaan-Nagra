@@ -3,7 +3,7 @@
 <h3 align="center">An 18 Year Old with a passion for tech, innovation and entrepreneurship.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
-- 🌱 I’m currently learning **The Odin Project**
+- 🌱 I’m currently working through **The Odin Project**
 
 - 💬 Ask me about **Pygame, Flask, Python, Web Development**
 
