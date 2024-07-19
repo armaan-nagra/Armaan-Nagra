@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently working through **The Odin Project**
 
-- 💬 Ask me about **Pygame, Flask, Python, Web Development**
+- 💬 Ask me about **Python, Web Development and Startups**
 
-- 📫 How to reach me **armaandeepnagra@icloud.com**
+- 📫 My email is: **armaandeepnagra@icloud.com**
 
 - ⚡ Fun fact **I speak 3 languages (not including programming languages)**
 
