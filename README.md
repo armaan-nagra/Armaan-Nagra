@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently working on <a href = "https://www.theodinproject.com/" target="_blank">**The Odin Project**</a>
 
-- 💬 Ask me about **Python, Web Development and Startups**
-
 - 📫 My email is: **armaandeepnagra@icloud.com**
 
 - ⚡ Fun fact **I speak 3 languages (not including programming languages)**
