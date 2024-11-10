@@ -7,7 +7,7 @@
 
 - 📫 My email is: **armaandeepnagra@icloud.com**
 
-- ⚡ Fun fact **I speak 3 languages (not including programming languages)**
+- ⚡ Fun fact **I speak 4 languages fluently**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
