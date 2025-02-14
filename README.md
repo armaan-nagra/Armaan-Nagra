@@ -7,7 +7,7 @@
 
 - 📫 My email is: **armaandeepnagra@icloud.com**
 
-- 🏗️ Hackathons attended so far: **3**
+- 🏗️ Hackathons attended so far: **4**
 
 - ⚡ Fun fact: **I speak 4 languages**
 
