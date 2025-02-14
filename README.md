@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)](https://www.linkedin.com/in/armaan-nagra/)
 <h1 align="center">Hi 👋, I'm Armaan</h1>
-<h3 align="center">An 18 Year Old with a passion for cutting-edge technology and innovation</h3>
+<h3 align="center">A 19 Year Old with a passion for cutting-edge technology and innovation</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 - 🌱 I’m currently studying Computer Science at the University of Warwick
