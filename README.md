@@ -1,11 +1,10 @@
-[![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)](https://www.linkedin.com/in/armaan-nagra/)
-<h1 align="center">Hi 👋, I'm Armaan</h1>
-<h3 align="center">A 19 Year Old who loves building random cool stuff</h3>
+<h1 align="center">hi! i'm armaan</h1>
+<h3 align="center">a 19 year old who loves building random cool stuff</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 - 🌱 I’m currently studying Computer Science at the University of Warwick
 
-- 📫 My email is: **armaandeepnagra@icloud.com**
+- 📫 My email is: **armaan.nagra@warwick.ac.uk**
 
 - 🏗️ Hackathons attended so far: **4**
 
