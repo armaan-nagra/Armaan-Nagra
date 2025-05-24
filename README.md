@@ -6,7 +6,7 @@
 
 - 📫 My email is: **armaan.nagra@warwick.ac.uk**
 
-- 🏗️ Hackathons attended so far: **4**
+- 🏗️ Hackathons attended so far: **5**
 
 - ⚡ Fun fact: **I speak 4 languages**
 
