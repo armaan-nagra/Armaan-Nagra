@@ -1,4 +1,4 @@
-<h1 align="center">hi! i'm armaan</h1>
+<h1 align="center">hey! i'm armaan</h1>
 <h3 align="center">a 19 year old who loves building random cool stuff</h3>
 
 - 🎓 CS @ Warwick
