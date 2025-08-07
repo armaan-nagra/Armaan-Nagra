@@ -3,4 +3,3 @@
 
 - 🎓 CS @ Warwick
 - 💻 Software Engineer Intern @ Ocado Technology | Working on MCP Servers, Browser Agents, Full-Stack Development & Cloud Infrastructure
-- 🧩 I love hackathons, I've been to **5** this academic year
