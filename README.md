@@ -1,5 +1,5 @@
 <h1 align="center">hey! i'm armaan</h1>
-<h3 align="center">a 19 year old who loves building random cool stuff</h3>
+<h3 align="center">a 20 year old who loves building random cool stuff</h3>
 
 - 🎓 CS @ Warwick
 - 💻 Software Engineer Intern @ Ocado Technology | Working on MCP Servers, Browser Agents, Full-Stack Development & Cloud Infrastructure
